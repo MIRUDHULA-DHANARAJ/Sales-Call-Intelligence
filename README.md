@@ -162,11 +162,7 @@ Make sure `ffmpeg` is installed and accessible in your PATH.
 **Short transcripts giving poor results**  
 Very short transcripts (< 200 words) may produce only 1–2 chunks, reducing RAG quality. The sample transcript is a good length reference.
 
----
 
-## 📄 License
-
-MIT — free to use, modify, and distribute.
 
 ---
 
