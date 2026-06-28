@@ -18,11 +18,7 @@ A Streamlit app that analyses sales call transcripts using a **hybrid RAG pipeli
 
 ---
 
-## 🖥️ Screenshots
 
-> Run the app and use **Load Sample** to see a demo without a real transcript.
-
----
 
 ## 🚀 Quick Start
 
